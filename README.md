@@ -1,6 +1,6 @@
 # ✏️ EduTech Toolbox 
 <p align="center">A Java application helping educators analyse grades both  on a module level &amp; for individual students <br><br>
-<img src="/Screenshots/StudentWindow_Demo.png" width="500" alt="banner"/><img src="/Screenshots/ModuleWindow_Demo.png" width="500"  alt="banner"/></p>
+<img src="/Screenshots/StudentWindow_Demo.png" width="499" alt="banner"/><img src="/Screenshots/ModuleWindow_Demo.png" width="499"  alt="banner"/></p>
 <br>
 
 ## Background:
